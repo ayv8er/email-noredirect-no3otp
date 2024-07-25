@@ -56,7 +56,7 @@ export default function App() {
         </div>
       )}
       <div className="description">
-        <h3>Magic link + No Redirect + No 3 Digit OTP</h3>
+        <h3>Email link + No Redirect + No 3 Digit OTP</h3>
         <h4>
           User submits email, then receives emailed magic link. User clicks link
           and logs in. No user protection against phishing. Notice session is
